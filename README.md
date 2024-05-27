@@ -35,5 +35,6 @@ I'm Artem, Software Developer from Ukraine.
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
+#### My stats ⭐
 <img align="left" width="47%" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArtemVdovyk&show_icons=true&theme=transparent">
 <img align="right" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemVdovyk&layout=compact">
