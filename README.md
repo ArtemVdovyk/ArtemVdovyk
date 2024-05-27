@@ -2,12 +2,12 @@
 
 I'm Artem, Software Developer from Ukraine.
 
-#### :mailbox: Reach me out!
+#### Reach me out! :mailbox:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Artem_Vdovyk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-vdovyk/) 
 [![Mail Badge](https://img.shields.io/badge/-Artem_Vdovyk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:artem.vdovyk@gmail.com)
 
-#### Things I code with
+#### Things I code with 👨‍💻
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
